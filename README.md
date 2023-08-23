@@ -1,7 +1,7 @@
 # Yusuf CEYLAN
 
 - 👋 Hi, I’m @yusuf-ceylan
-- 👀 I’m interested in C#, SQL, MySQL, ASP.NET Core MVC, RestAPI, Oracle BI, HTML, HTML5, CSS, Bootstrap
+- 👀 I’m interested in C#, ASP.NET MVC Core, Xamarin Mobil App, SQL, MySQL, , RestAPI, Oracle, HTML, CSS, Bootstrap
 - 🌱 I’m currently learning ASP.NET, Python
 
 https://yusufceylan.net
